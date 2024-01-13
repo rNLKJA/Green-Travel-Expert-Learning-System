@@ -1,3 +1,5 @@
+<img src="/public/logo0.png" al width=100% />
+
 # Green Travel Expert Learning System: Pitch Deck (Mar 2024 - Dec 2024)
 
 ## Introducing GTELS: Your Eco-Conscious Travel Companion
