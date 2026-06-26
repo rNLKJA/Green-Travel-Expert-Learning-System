@@ -1,55 +1,74 @@
-<img src="/public/logo0.png" al width=100% />
+<div align="center">
 
-# Green Travel Expert Learning System: Pitch Deck (Mar 2024 - Dec 2024)
+<img src="public/logo0.png" alt="GTELS logo" width="100%" />
 
-## Introducing GTELS: Your Eco-Conscious Travel Companion
+# Green Travel Expert Learning System (GTELS)
 
-Imagine: Exploring breathtaking destinations, immersing yourself in local cultures, and minimizing your environmental footprint – all guided by the wisdom of seasoned travel experts. This is the vision of the Green Travel Expert Learning System (GTELS), a cutting-edge platform that elevates travel discovery with AI-powered, expert-driven sustainability.
+**An AI-powered, expert-driven platform concept for eco-conscious travel recommendations.**
 
-### The Problem: Unsustainable Wanderlust
+![Status: Concept](https://img.shields.io/badge/Status-Concept-orange)
+![License: GPL--3.0](https://img.shields.io/badge/License-GPL--3.0-blue)
+![Year: 2024](https://img.shields.io/badge/Year-2024-lightgrey)
 
-- Traditional travel recommendations prioritize popularity and convenience, often overlooking environmental impact.
-- Travelers lack access to personalized, curated eco-friendly options, hindering responsible choices.
-- The travel industry significantly contributes to carbon emissions and environmental degradation, demanding urgent action.
+</div>
 
-### GTELS: Your Personal Green Travel Guru
+---
 
-GTELS empowers you to:
+## Overview
 
-- Uncover hidden gems: Explore a curated knowledge base of eco-friendly destinations, activities, and accommodations meticulously chosen by travel experts.
-- Customize your journey: Receive personalized recommendations that match your preferences, budget, and sustainability goals.
-- Travel with transparency: Understand the environmental impact of your choices with integrated carbon footprint and sustainability ratings.
-- Make informed decisions: Explainable recommendations demystify the AI behind the suggestions, building trust and confidence.
-- Navigate seamlessly: Enjoy a user-friendly interface designed for intuitive exploration and effortless travel planning.
+GTELS (Green Travel Expert Learning System) is a concept for a travel discovery platform that puts environmental impact at the centre of every recommendation. The idea pairs expert-curated knowledge of eco-friendly destinations with explainable AI, so travellers can plan trips that match their preferences and budget while minimising their footprint.
 
-### Beyond Recommendations: Building a Greener Future
+This repository holds the original pitch deck for GTELS, drafted between March and December 2024. It is a vision document — there is no implementation yet.
 
-GTELS isn't just a travel tool; it's a movement towards a more sustainable future:
+## The Problem
 
-- Reduced Environmental Impact: We empower travelers to minimize their footprint, leading to lower carbon emissions and less environmental degradation.
-- Empowered Local Communities: GTELS highlights responsible tourism practices, supporting local communities and preserving cultural heritage.
-- Industry Transformation: We collaborate with travel platforms and organizations to integrate sustainability into their offerings, driving systemic change.
-- Continuous Improvement: We actively learn and adapt to evolving trends and environmental best practices, ensuring our impact remains relevant and positive.
+- Traditional travel recommendations prioritise popularity and convenience, often overlooking environmental impact.
+- Travellers lack access to personalised, curated eco-friendly options, which makes responsible choices harder.
+- The travel industry is a significant contributor to carbon emissions and environmental degradation, and the tooling to plan more sustainably is thin.
 
-### Join the Mission: Share Your Passion, Shape the Future
+## The Vision
 
-We're actively seeking passionate individuals with diverse skillsets to join our team:
-- Data Scientists & Machine Learning Engineers: Craft intelligent algorithms that translate expert insights into personalized recommendations. (Estimated completion time: 6 months)
-- Travel Experts: Share your knowledge of eco-friendly destinations, activities, and responsible practices to fuel our curated database. (Ongoing effort)
-- UI/UX Designers: Build a user interface that's intuitive, engaging, and inspires sustainable adventures. (Estimated completion time: 4 months)
-- Content Writers & Marketers: Capture the essence of green travel and spread the word to a global audience. (Ongoing effort)
-- Sustainability Champions: Share your expertise and passion to guide our impact initiatives and partnerships. (Ongoing effort)
+GTELS would help travellers:
 
-### Get Involved: Let's Explore, Connect, and Make a Difference!
+- **Uncover hidden gems** — explore a curated knowledge base of eco-friendly destinations, activities, and accommodation chosen by travel experts.
+- **Personalise the journey** — receive recommendations matched to preferences, budget, and sustainability goals.
+- **Travel with transparency** — see the environmental impact of each choice through carbon footprint and sustainability ratings.
+- **Make informed decisions** — explainable recommendations show the reasoning behind each suggestion, building trust.
+- **Navigate seamlessly** — plan through an interface designed for intuitive exploration.
 
-- Visit our website: [i don't have it yet]
-- Contribute your skills: [email]('huangsunchuangyu@gmail.com')
-- Follow our journey: [i don't have it yet]
+### Beyond recommendations
 
-Together, we can transform travel into a force for good.
+The longer-term ambition is for GTELS to be more than a planning tool:
 
-Expected Completion Period: The core system with personalized recommendations and basic environmental data integration is expected to be completed within 12 months. Expansion of features and deeper environmental impact analysis will be ongoing efforts based on user feedback and evolving sustainability initiatives.
+- **Reduced environmental impact** — help travellers minimise their footprint and lower carbon emissions.
+- **Empowered local communities** — surface responsible tourism that supports communities and preserves cultural heritage.
+- **Industry change** — work with travel platforms to bake sustainability into their offerings.
+- **Continuous improvement** — adapt to evolving trends and environmental best practices over time.
 
-Remember, this is just a template. Customize it with your specific goals, timeline, and team details to create a compelling pitch that captures attention and inspires collaboration.
+## Status
 
-Let's embark on this green travel adventure together!
+**Concept stage — no implementation.** This repository documents the pitch only. Nothing has been built.
+
+A first build would aim for a core system with personalised recommendations and basic environmental data integration, followed by deeper impact analysis and feature expansion driven by user feedback. Indicative effort from the original pitch:
+
+| Workstream                                | Indicative effort |
+| ----------------------------------------- | ----------------- |
+| Recommendation engine (data science / ML) | ~6 months         |
+| User interface (UI/UX)                    | ~4 months         |
+| Eco-friendly destination database         | Ongoing           |
+| Content and outreach                      | Ongoing           |
+| Sustainability partnerships               | Ongoing           |
+
+## Get Involved
+
+This is an early concept and the door is open to collaborators — data scientists and ML engineers, travel experts, UI/UX designers, content writers, and sustainability champions.
+
+- **Email:** [huangsunchuangyu@gmail.com](mailto:huangsunchuangyu@gmail.com)
+- **Website:** TBC
+- **Updates:** TBC
+
+If the vision resonates, get in touch.
+
+## Licence
+
+Released under the [GPL-3.0](LICENSE) licence.
